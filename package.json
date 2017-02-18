@@ -1,0 +1,29 @@
+{
+  "name": "jpacheco",
+  "version": "1.0.0",
+  "description": "Application in which allows user insert info for the kind of burger of choice and the choice to devour.",
+  "main": "server.js",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "body-parser": "^1.16.1",
+    "geocoder": "^0.2.2",
+    "express": "^4.14.1",
+    "inquirer": "^2.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pache78/burger.git"
+  },
+  "author": "Janine Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pache78/burger/issues"
+  },
+  "homepage": "https://github.com/pache78/burger#readme"
+}
